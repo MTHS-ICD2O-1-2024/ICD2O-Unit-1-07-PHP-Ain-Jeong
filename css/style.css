@@ -39,3 +39,8 @@
 body {
   background-color: rgb(145 166 206);
 }
+
+img {
+  float: right;
+  height: 200px;
+}

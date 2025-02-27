@@ -29,7 +29,7 @@
         <div class="page-content">
           <?php echo '<p>Hello, World!, in PHP</p>'; ?>
         </div>
-        <img src="./images/notebook-animation.svg" />
+        <img src="./images/tomato.png" alt="tomato" />
         <!-- Simple Textfield for integers-->
         <form action="#">
           <br />
